@@ -1,0 +1,2 @@
+follow_button: "//*[@text='Follow']"
+profile_tab: "//*[@content-desc='Profile']"

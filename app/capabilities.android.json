@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "appPackage": "com.zhiliaoapp.musically",
+  "appActivity": ".MainActivity",
+  "noReset": true
+}
